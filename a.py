@@ -53,5 +53,5 @@ if (__name__ == "__main__"):
     except KeyboardInterrupt:
         print("Saliendo")
         exit()
-    #except TypeError:
-    #    print('Debes especificar la url')
+    except TypeError:
+        print('Debes especificar la url')
