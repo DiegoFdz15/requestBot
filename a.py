@@ -1,5 +1,4 @@
 from datetime import datetime
-from numpy import integer
 import requests
 import time
 import argparse
